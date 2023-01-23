@@ -18,7 +18,7 @@ I created this simple Augmented Reality app by following a tutorial to be more f
 
 ### The placement indicator
 
-![Unity_AR_1](https://user-images.githubusercontent.com/86726474/213955181-52b81902-84bb-487c-a0c0-36090df70145.jpg)
+![Unity_AR_11](https://user-images.githubusercontent.com/86726474/213955456-5dac6f39-1953-451c-b726-03aa97a0955b.jpg)
 
 ### Placing the prefab with touch input
 
